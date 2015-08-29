@@ -1,6 +1,6 @@
 <?php
 /**
- * Static content controller.
+ * Static content controller. This is a sample comment
  *
  * This file will render views from views/pages/
  *
